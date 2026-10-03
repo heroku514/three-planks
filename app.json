@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "ThreePlanks",
+    "slug": "three-planks",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "scheme": "threeplanks",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.peakermap.threeplanks",
+      "buildNumber": "1",
+      "infoPlist": {
+        "CFBundleDisplayName": "Three Planks",
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E7F2EC",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

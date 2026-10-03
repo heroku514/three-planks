@@ -1,0 +1,5 @@
+Three Planks support
+
+Three Planks keeps one pretend gap. Tap Put left, Put right, Lift left, Lift right, Put middle, or Lift middle. Both sides must be down before the middle crosses. The huge line says what the gap is doing.
+
+The gap stays on this phone. The app does not use an account. For help, write to peaker.map@gmail.com.

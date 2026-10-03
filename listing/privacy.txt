@@ -1,0 +1,5 @@
+Three Planks privacy
+
+Three Planks stores the current gap on this phone. Each plank is up or down.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a clock, or a network connection. Nothing is sent off the phone.
